@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# Hype-Circle
+This is a decentrized social Dapp using LENS protocol and built on top of Lenster.
+It's main goal is to provide a supportive enviroment to ease reaching one's goal.
+
+
+
+
+---------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+The frontend is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
